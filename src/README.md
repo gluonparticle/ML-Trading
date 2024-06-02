@@ -1,8 +1,3 @@
-# Algorithmic_Trading_Machine_Learning
-
-* Project 1 - Unsupervised Learning Trading Strategy
-* Project 2 - Twitter Sentiment Trading Strategy
-* Project 3 - Intraday GARCH Trading Strategy
 
 # If you are interested in connecting with me or my research:
 * Premium Discord Server - https://whop.com/quantfactory/
